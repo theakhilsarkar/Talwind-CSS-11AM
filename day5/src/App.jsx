@@ -1,5 +1,6 @@
 import ColumnsLayout from "./components/ColumnsLayout"
 import Container from "./components/Container"
+import FlexBox from "./components/FlexBox"
 import GridTemplate from "./components/GridTemplate"
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <>
       {/* <ColumnsLayout /> */}
       {/* <Container /> */}
-      <GridTemplate />
+      {/* <GridTemplate /> */}
+      <FlexBox />
     </>
   )
 }

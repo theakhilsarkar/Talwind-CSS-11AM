@@ -56,3 +56,5 @@ const colorList = [
     "bg-gray-200",
     "bg-cyan-200",
 ];
+
+
