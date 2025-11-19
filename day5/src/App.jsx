@@ -2,6 +2,8 @@ import ColumnsLayout from "./components/ColumnsLayout"
 import Container from "./components/Container"
 import FlexBox from "./components/FlexBox"
 import GridTemplate from "./components/GridTemplate"
+import Table from "./components/Table"
+import WebUI from "./components/WebUI"
 
 function App() {
 
@@ -10,7 +12,9 @@ function App() {
       {/* <ColumnsLayout /> */}
       {/* <Container /> */}
       {/* <GridTemplate /> */}
-      <FlexBox />
+      {/* <FlexBox /> */}
+      {/* <WebUI /> */}
+      <Table />
     </>
   )
 }
